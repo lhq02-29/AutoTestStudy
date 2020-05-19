@@ -1,0 +1,1 @@
+EXCEL_DIR="E:/pytest_demo/data/search_query.xlsx"
